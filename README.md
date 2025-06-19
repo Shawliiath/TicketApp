@@ -45,7 +45,7 @@ TicketApp est une solution complète de support client permettant aux utilisateu
 
 1. **Cloner le projet**
    ```bash
-   git clone [votre-repo]
+   git clone TicketApp
    cd TicketApp
    ```
 
