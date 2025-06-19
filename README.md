@@ -91,7 +91,7 @@ TicketApp/
 Tout nouvel utilisateur s'inscrivant via l'app a automatiquement le rôle `user`.
 
 ### Administrateurs
-L'email `yanis.ms@icloud.com` muni du mot de passe "22112003" est automatiquement reconnu comme administrateur.
+L'email `yanis.ms@icloud.com` muni du mot de passe `22112003` est automatiquement reconnu comme administrateur.
 
 Pour ajouter d'autres administrateurs, modifiez le tableau `ADMIN_EMAILS` dans le hook `useUserRole`.
 
